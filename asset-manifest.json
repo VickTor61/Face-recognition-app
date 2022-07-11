@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VickTor61/Face-recognition-app/static/css/main.babe148c.css",
+    "main.js": "/VickTor61/Face-recognition-app/static/js/main.9fe5a847.js",
+    "static/js/787.ad7a1cb5.chunk.js": "/VickTor61/Face-recognition-app/static/js/787.ad7a1cb5.chunk.js",
+    "index.html": "/VickTor61/Face-recognition-app/index.html",
+    "main.babe148c.css.map": "/VickTor61/Face-recognition-app/static/css/main.babe148c.css.map",
+    "main.9fe5a847.js.map": "/VickTor61/Face-recognition-app/static/js/main.9fe5a847.js.map",
+    "787.ad7a1cb5.chunk.js.map": "/VickTor61/Face-recognition-app/static/js/787.ad7a1cb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babe148c.css",
+    "static/js/main.9fe5a847.js"
+  ]
+}
