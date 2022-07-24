@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Face-recognition-app/static/css/main.babe148c.css",
-    "main.js": "/Face-recognition-app/static/js/main.ae3cae01.js",
+    "main.css": "/Face-recognition-app/static/css/main.d6fd3f5c.css",
+    "main.js": "/Face-recognition-app/static/js/main.413f835b.js",
     "static/js/787.ad7a1cb5.chunk.js": "/Face-recognition-app/static/js/787.ad7a1cb5.chunk.js",
     "index.html": "/Face-recognition-app/index.html",
-    "main.babe148c.css.map": "/Face-recognition-app/static/css/main.babe148c.css.map",
-    "main.ae3cae01.js.map": "/Face-recognition-app/static/js/main.ae3cae01.js.map",
+    "main.d6fd3f5c.css.map": "/Face-recognition-app/static/css/main.d6fd3f5c.css.map",
+    "main.413f835b.js.map": "/Face-recognition-app/static/js/main.413f835b.js.map",
     "787.ad7a1cb5.chunk.js.map": "/Face-recognition-app/static/js/787.ad7a1cb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.babe148c.css",
-    "static/js/main.ae3cae01.js"
+    "static/css/main.d6fd3f5c.css",
+    "static/js/main.413f835b.js"
   ]
 }
