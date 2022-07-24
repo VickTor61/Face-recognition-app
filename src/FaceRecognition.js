@@ -2,7 +2,6 @@ import React from "react";
 import "./FaceRecognition.css";
 
 const FaceRecognition = ({ imageurl, boundary_box }) => {
-  console.log(boundary_box);
   return (
     <div className="center ma">
       <div className="absolute">

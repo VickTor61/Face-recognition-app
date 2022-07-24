@@ -3,9 +3,8 @@
   justify-content: center;
 }
 
-.form {
-  width: 70%;
-  background-color: #eee;
+.form_container {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,11 +18,14 @@
   background-size: 100px 100px;
   background-color: #ec173a;
 }
-.form > input {
-  height: 2rem;
+.form_container > input {
+  height: 2.37rem;
   flex: 0.8;
 }
-.form > button {
+.form_container > input:focus {
+    outline: none;
+}
+.form_container > button {
   height: 2.37rem;
   flex: 0.2;
   background-color: rgba(40, 43, 218, 0.849);

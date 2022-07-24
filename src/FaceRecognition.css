@@ -1,19 +1,19 @@
 .center {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .boundary_box {
-    position: absolute;
-    box-shadow: 0 0 0 3px #149df2 inset;
-    display: flex;
-    flex-wrap: no-wrap;
-    justify-content: center;
-    align-content: center;
-    cursor: pointer;
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 inset;
+  display: flex;
+  flex-wrap: no-wrap;
+  justify-content: center;
+  align-content: center;
+  cursor: pointer;
 }
 .absolute {
-    position: relative;
+  position: relative;
 }

@@ -5,7 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: aquamarine; */
+  background: rgb(14, 44, 75) !important;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
 }
 
 code {
@@ -13,6 +16,3 @@ code {
     monospace;
 }
 
-html {
-  background: rgb(14, 44, 75);
-}

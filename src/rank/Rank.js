@@ -5,7 +5,7 @@ const Rank = () => {
     <div className="rank">
       <p>
         Hello Victor. Your rank is
-        <h1>#3</h1>
+        <span>#3</span>
       </p>
     </div>
   );
